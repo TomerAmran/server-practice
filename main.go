@@ -1,7 +1,7 @@
 package main
 
-
+import "github.com/TomerAmran/server-practice/cmd"
 
 func main() {
-	mycmd.Execute()
+	cmd.Execute()
 }
